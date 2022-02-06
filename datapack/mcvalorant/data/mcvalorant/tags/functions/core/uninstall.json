@@ -2,6 +2,7 @@
     "replace":false,
     "values":[
         "mcvalorant:core/objective/uninstall",
+        "mcvalorant:core/marker/uninstall",
         "mcvalorant:firesys/uninstall"
     ]
 }
