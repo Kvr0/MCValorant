@@ -1,10 +1,10 @@
-#> mcvalorant:core/__index
+#> core:core/__index
 # @private
 
 ## Storage
-    #declare storage mcvalorant: コアストレージ
+    #declare storage core: コアストレージ
 
 ## Callback
-    #declare tag/function mcvalorant:core/load ロード時に実行される
-    #declare tag/function mcvalorant:core/install インストール
-    #declare tag/function mcvalorant:core/uninstall アンインストール
+    #declare tag/function core:core/load ロード時に実行される
+    #declare tag/function core:core/install インストール
+    #declare tag/function core:core/uninstall アンインストール

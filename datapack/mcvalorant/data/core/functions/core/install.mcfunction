@@ -1,9 +1,9 @@
-#> mcvalorant:core/install
-# MCValorantのインストール
+#> core:core/install
+# インストール
 # @api
 
 ## Invoke "Install"
-    function #mcvalorant:core/install
+    function #core:core/install
 
 ## Set Flag
-    data modify storage mcvalorant: Installed set value 1b
+    data modify storage core: Installed set value 1b

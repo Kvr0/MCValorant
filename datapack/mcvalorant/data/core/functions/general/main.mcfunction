@@ -1,6 +1,6 @@
-#> mcvalorant:general/main
-# @within function mcvalorant:core/tick
+#> core:general/main
+# @within function core:core/tick
 
 ## Invoke "Main"
-    function #mcvalorant:core/main
+    function #core:core/main
 

@@ -1,4 +1,4 @@
-#> mcvalorant:core/marker/__index
+#> core:core/marker/__index
 # @private
 
 ## Maker 43885-0-0-0

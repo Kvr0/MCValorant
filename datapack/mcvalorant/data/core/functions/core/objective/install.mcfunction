@@ -1,5 +1,5 @@
-#> mcvalorant:core/objective/install
-# @within tag/function mcvalorant:core/install
+#> core:core/objective/install
+# @within tag/function core:core/install
 
 ## Add "temp" objective
-    scoreboard objectives add mcvalorant.temp dummy
+    scoreboard objectives add core.temp dummy

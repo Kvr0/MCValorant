@@ -1,9 +1,9 @@
-#> mcvalorant:core/uninstall
-# MCValorantのアンインストール
+#> core:core/uninstall
+# アンインストール
 # @api
 
 ## Invoke "Uninstall"
-    function #mcvalorant:core/uninstall
+    function #core:core/uninstall
 
 ## Set Flag
-    data modify storage mcvalorant: Installed set value 0b
+    data modify storage core: Installed set value 0b

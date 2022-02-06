@@ -1,5 +1,5 @@
-#> mcvalorant:core/marker/install
-# @within tag/function mcvalorant:core/install
+#> core:core/marker/install
+# @within tag/function core:core/install
 
 ## Marker
     summon marker 0 0 0 {UUID:[I;43885,0,0,0],Tags:["MarkerObject"]}

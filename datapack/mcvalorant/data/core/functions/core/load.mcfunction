@@ -1,6 +1,6 @@
-#> mcvalorant:core/load
+#> core:core/load
 # @within tag/function minecraft:load
 
 ## Invoke "Load"
-    function #mcvalorant:core/load
+    function #core:core/load
 

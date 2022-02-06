@@ -1,6 +1,6 @@
-#> mcvalorant:core/objective/uninstall
-# @within tag/function mcvalorant:core/uninstall
+#> core:core/objective/uninstall
+# @within tag/function core:core/uninstall
 
 ## Remove "temp" objective
-    scoreboard objectives remove mcvalorant.temp
+    scoreboard objectives remove core.temp
 

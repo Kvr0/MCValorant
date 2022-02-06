@@ -1,6 +1,7 @@
 {
     "replace":false,
     "values":[
-        "score_to_health:load"
+        "score_to_health:load",
+        "core:core/load"
     ]
 }
