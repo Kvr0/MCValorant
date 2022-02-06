@@ -2,6 +2,7 @@
     "replace":false,
     "values":[
         "core:core/objective/uninstall",
-        "core:core/marker/uninstall"
+        "core:core/marker/uninstall",
+        "core:general/click_detect/uninstall"
     ]
 }
