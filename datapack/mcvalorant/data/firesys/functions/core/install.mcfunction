@@ -1,3 +1,3 @@
-#> mcvalorant:firesys/install
-# @within tag/function mcvalorant:core/install
+#> firesys:core/install
+# @within tag/function core:core/install
 

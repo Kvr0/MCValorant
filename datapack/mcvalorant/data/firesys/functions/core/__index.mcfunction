@@ -1,4 +1,4 @@
-#> mcvalorant:firesys/__index
+#> firesys:core/__index
 # @private
 
 
