@@ -1,6 +1,7 @@
 {
     "replace":false,
     "values":[
-        "mcvalorant:core/objective/install"
+        "mcvalorant:core/objective/install",
+        "mcvalorant:firesys/install"
     ]
 }
